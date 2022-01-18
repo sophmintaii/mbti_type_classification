@@ -1,0 +1,14 @@
+lightgbm
+matplotlib
+nltk
+numpy
+pandas
+scipy
+seaborn
+sklearn
+spacy
+wordcloud
+IPython
+jupyter_client
+jupyter_core
+notebook
